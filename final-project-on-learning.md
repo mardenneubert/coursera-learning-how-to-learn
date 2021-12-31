@@ -20,7 +20,6 @@
 - Examples of creators and artists who were famous for leveraging this transition are Thomas Edison and Salvador Dali
 	- Their techniques were similar: first relax, let the mind wander, start to fall asleep and then soon wake up, in order to consciously access ideas from the diffuse mode
 
-
 ### Procrastination
 - What is it?
 	- Procrastination means to keep delaying something that must be done, often because it is unpleasant or boring
@@ -48,13 +47,29 @@
 	- Is centered in the prefrontal cortex, which is responsible for the executive functions of the brain
 	- Connects to other parts of the brain, so it can access long-term memories
 	- Can store only about four chunks of information at the same time
-	- Works like a *blackboard*, but not a very good one: we have to repeat or use other techniques to make information stick to it
+	- Works like a **blackboard**, but not a very good one: we have to repeat or use other techniques to make information stick to it
 
 - Long-term memory
 	- Stores all our memories, including fundamental concepts and techniques involved in what we are learning
 	- Is distributed over a big area of the brain
 	- Can store billions of items
-	- Works like a *warehouse*, but to increase the chances that we are able to access an item later, we need to revisit it a few times
+	- Works like a **warehouse**, but to increase the chances that we are able to access an item later, we need to revisit it a few times
+
+## Sleep and learning
+- Sleep allows our brains to get rid of toxins they produce while we are awake
+- During sleep, our brains consolidate our learning, getting rid of irrelevant ideas and reinforcing the important ones
+	- They rehearse the tougher parts of what we are learning and reinforce those neural patterns
+	- Sleep also helps form new neural connections by going into diffuse mode and allowing new neural patterns to form
+		- For this to happen, we first to enter focused mode to put new information in our memory
+
+## Chunking
+- Chunking is the process of grouping information in our brains through meaning or use
+	- The chunk formed is easier to remember and can fit into the big picture of what we are learning
+	- This helps our focused mode to 
+	- Only when we understand the **context** we are able to fit the chunk with other topics
+
+
+
 
 Analogies are a great tool for learning
 
