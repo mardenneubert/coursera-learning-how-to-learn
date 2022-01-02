@@ -109,16 +109,3 @@
 - **Einstellung** is the fact that a initial thought or concept we have may prevent a better idea from being found
 - **Interleaving** is to intersperse our learning from different topics, so that you can maximize our results, and make new neural connections.
 
-
-Memory techniques - mnemonics, memory palace
-- My example of memorizing the periodic table
-
-## External references
-
-Four stages of learning (Gordon consulting) [Reference](https://www.kdplatform.com/four-stages-learning/)
-1. Unconscious Incompetence
-2. Conscious Incompetence
-3. Conscious Competence
-4. Unconscious Competence
-5. (proposed by some) conscious competence of unconscious competence
-
