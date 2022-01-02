@@ -31,10 +31,9 @@
 	- Procrastination takes away time that is precious and should be used to do or learn something more important
 	- It also has similarities with drug addiction, in the way it tricks your brain to do something more pleasant 
 	- Studies also show that the uncomfortable feeling that triggers procrastination usually goes away after we start working on the task
-- How can we avoid it?
-	- The Pomodoro Technique
-		- When you are about to start a difficult task, one that needs attention, get rid of all distractions, set a timer to 25 minutes, and start working with focus for that time. 
-		- After you finish your 25-minute stretch, reward yourself with something you like
+- How can we avoid it? The Pomodoro Technique
+	- When you are about to start a difficult task, one that needs attention, get rid of all distractions, set a timer to 25 minutes, and start working with focus for that time. 
+	- After you finish your 25-minute stretch, reward yourself with something you like
 
 ### The Importance of Practice
 - Abstract concepts, such as those in math and science, are harder to learn because they don't correspond to concrete things in our daily lives
@@ -62,46 +61,44 @@
 	- Sleep also helps form new neural connections by going into diffuse mode and allowing new neural patterns to form
 		- For this to happen, we first to enter focused mode to put new information in our memory
 
-## Chunking
-- Chunking is the process of grouping information in our brains through meaning or use
-	- The chunk formed is easier to remember and can fit into the big picture of what we are learning
-	- This helps our focused mode to 
+## What is Chunking
+- Chunking is the process of grouping information through meaning or use
+	- The chunk formed is easier to remember than each bit of information and can fit into the big picture of what we are learning
 	- Only when we understand the **context** we are able to fit the chunk with other topics
+	- Chunks are **packed knowledge** and are used when we get dressed, do math, speak a language, dance, or practice a sport
 
+## How Chunks Are Formed
+- When we learn, first we form mini-chunks, then later we connect them to form larger chunks 
+- Work-through examples/tutorials help when we are starting to learn a new topic 
+- Steps for forming a chunk
+	- Focus your undivided attention
+	- Understand the basic idea
+	- Gain context - learn *when* to use the chunk
+- The more chunks we have in our minds, the more skilled and creative we get - and we can even learn faster
+	- **Transfer** is the fact that chunks we have formed also help us learn new material, even in unrelated fields	
+	- Related to that is the fact that **analogies** are a great tool for learning
 
+## The Importance of Testing
+- Testing ourselves is an important part of learning
+	- Formal or informal tests help forming chunks because the process of retrieving the information helps solidify the learning
+- **Recall** is a simple and effective technique when learning a new content (much better than rereading)
+	- It is like a mini-test: after reading a material, stop and try to recall it, ask yourself what is there, quiz yourself on some of the topics
+- **Illusion of competence** is the false impression that we know a material
+	- We can avoid it by testing ourselves, using recall and other types of tests
+	- Keeping highlighting to a minimum (one sentence per paragraph) also helps avoiding this illusion
+	- Another technique is to recall the material in a different place, not where we have studied it - the spatial cues we get from being in another place help solidify the learning
 
-
-Analogies are a great tool for learning
-
-Procrastination
-
-Pomodoro technique - a way to avoid procrastination
-
-Practice, test yourself - retrieval as a simple tool for improving memory
-- recall is a mini-test
-
-Deliberate practice
-- test yourself on the difficult topics, not the easy ones
+## Concepts and Techniques in Learning
+- **Overlearning** is to keep studying and practicing what we already learned, going beyond what is needed to dominate a topic
+	- This helps in gaining automaticity, which can be applicable in some situations, but also may lead to illusions of competence and Einstellung (*see below*)
+- **Deliberate practice** is to focus (and test ourselves) on more and more difficult material (instead of the ones we have already mastered) and is more effective than overlearning
+- **Einstellung** is the fact that a initial thought or concept we have may prevent a better idea from being found
+- **Interleaving** is to intersperse our learning from different topics, so that you can maximize our results, and make new neural connections.
 
 Spaced repetition
 - good match for the sleep effect on learning
 
-Interleaving - intersperse your learning from different topics, so that you can maximize your results, and make new connections.
-
-Einstellung
-
-Over-learning - going beyond what is needed to dominate a topic well enough for your objectives - may lead to illusions of competence and Einstellung
-
-Illusions of competence
-
 The importance of sleep
-
-Long-term memory vs short-term memory
-
-Chunking as a form of compacting information to fit working memory
-
-Procrastination - why it is so bad
-- You need time to learn, procrastination takes it away from you
 
 The four parts of a habit - and how to tackle each of them to avoid procrastination
 - Cue
