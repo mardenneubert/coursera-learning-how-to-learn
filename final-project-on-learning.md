@@ -28,10 +28,23 @@
 	- When we are about to do something that we would rather not do, we activate areas of our brain associated with pain
 	- Our brain then tries to avoid that negative feeling by directing our focus to something else more pleasant
 - Why is it bad?
-	- Procrastination takes away time that is precious and should be used to do or learn something more important
-	- It also has similarities with drug addiction, in the way it tricks your brain to do something more pleasant 
+	- Procrastination takes away time that is precious and should be used to do or learn something - learning is a bit by bit activity, so it demands time
+	- It has similarities with drug addiction, in the way it tricks your brain to do something more pleasant 
 	- Studies also show that the uncomfortable feeling that triggers procrastination usually goes away after we start working on the task
-- How can we avoid it? The Pomodoro Technique
+
+## How Can We Avoid Procrastination
+- First of all: it takes *a lot* of willpower - and willpower is a limited resource, so better use it only when absolutely necessary
+- Leverage the **power of habit**
+	- Habits are an energy saver; they allow us to start and follow an activity without wasting a lot of energy. They are composed by four parts and each of these can be tweaked to help avoid procrastination
+		1. Cue: the trigger that launch us into habit mode
+		2. Routine: the response your brain goes into after the cue
+		3. Reward: the result we expect after the completion of the routine
+		4. Belief: gives power to the habit, for instance the belief that you can put off your studies until late
+- Focus on **Process instead of Product**
+	- **Process** is the flow of activities related to some task
+	- **Product** is the final result of the task 
+	- Focusing more on Product means to not worry about the final outcome and focus on starting the routine, get into the flow and relax
+- Use the Pomodoro Technique:
 	- When you are about to start a difficult task, one that needs attention, get rid of all distractions, set a timer to 25 minutes, and start working with focus for that time. 
 	- After you finish your 25-minute stretch, reward yourself with something you like
 
@@ -84,7 +97,7 @@
 - **Recall** is a simple and effective technique when learning a new content (much better than rereading)
 	- It is like a mini-test: after reading a material, stop and try to recall it, ask yourself what is there, quiz yourself on some of the topics
 - **Illusion of competence** is the false impression that we know a material
-	- We can avoid it by testing ourselves, using recall and other types of tests
+	- We can avoid it by testing ourselves, using recall and other types of tests - mistakes that we may make in those tests allow us to catch illusions of competence
 	- Keeping highlighting to a minimum (one sentence per paragraph) also helps avoiding this illusion
 	- Another technique is to recall the material in a different place, not where we have studied it - the spatial cues we get from being in another place help solidify the learning
 
@@ -92,21 +105,10 @@
 - **Overlearning** is to keep studying and practicing what we already learned, going beyond what is needed to dominate a topic
 	- This helps in gaining automaticity, which can be applicable in some situations, but also may lead to illusions of competence and Einstellung (*see below*)
 - **Deliberate practice** is to focus (and test ourselves) on more and more difficult material (instead of the ones we have already mastered) and is more effective than overlearning
+- **Spaced repetition** is a technique for spacing learning sessions and practices over days and is good match for the sleep effect on learning
 - **Einstellung** is the fact that a initial thought or concept we have may prevent a better idea from being found
 - **Interleaving** is to intersperse our learning from different topics, so that you can maximize our results, and make new neural connections.
 
-Spaced repetition
-- good match for the sleep effect on learning
-
-The importance of sleep
-
-The four parts of a habit - and how to tackle each of them to avoid procrastination
-- Cue
-- Routine
-- Reward
-- Belief
-
-Focus on process instead of product
 
 Memory techniques - mnemonics, memory palace
 - My example of memorizing the periodic table
